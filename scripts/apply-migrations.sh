@@ -4,7 +4,7 @@
 set -euo pipefail
 
 : "${DB_PASSWORD:?DB_PASSWORD مطلوبة — احصل عليها من Supabase Dashboard → Settings → Database}"
-REF="qrqrhgyddptgtqaefrzv"
+REF="wxknpssoebirzguwcivf"
 DB_URL="postgresql://postgres.${REF}@aws-0-ap-northeast-1.pooler.supabase.com:5432/postgres"
 
 
